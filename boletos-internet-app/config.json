@@ -4,8 +4,8 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=br.app.boletosdesa"
   },
   "avisos": {
-    "ativo": false,
-    "titulo": "",
-    "mensagem": ""
+    "ativo": true,
+    "titulo": "Aviso de teste",
+    "mensagem": "Este é um aviso de teste do aplicativo Boletos. Se você está visualizando esta mensagem, o sistema de avisos remotos está funcionando corretamente."
   }
 }
